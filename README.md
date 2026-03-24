@@ -1,5 +1,8 @@
 # 📊 COVID-19 Data Analysis (India)
-
+## 🔥 Highlights
+- 📊 Analyzed real-world COVID data
+- 📈 Created trend visualizations
+- 🧠 Extracted actionable insights
 ## 📌 Project Overview
 
 This project analyzes real-world COVID-19 data using Python.
